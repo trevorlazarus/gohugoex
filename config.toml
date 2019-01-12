@@ -1,0 +1,7 @@
+baseurl = "https://trevorlazar.us/"
+title = "Trevor Lazarus"
+author = "Trevor Lazarus"
+copyright = "Copyright © 2019, Trevor Lazarus; all rights reserved."
+canonifyurls = true
+paginate = 3
+
